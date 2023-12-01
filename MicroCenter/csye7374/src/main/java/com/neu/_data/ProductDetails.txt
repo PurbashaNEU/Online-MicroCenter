@@ -1,0 +1,8 @@
+1,Iphone 14 Pro,10.0,Cellphone,Apple
+2,XPS 13,100.0,Laptop,Dell
+3,Whoop Slim,150.0,SmartWatch,Whoop
+4,Mac Book 15,101.0,Laptop,Apple
+1,Iphone 14 Pro,10.0,Cellphone,Apple
+2,XPS 13,100.0,Laptop,Dell
+3,Whoop Slim,150.0,SmartWatch,Whoop
+4,Mac Book 15,101.0,Laptop,Apple

@@ -1,0 +1,434 @@
+commit 0e3eae1b6ad6a41db25b255bcb022c61c15c8326
+Author: Purbasha Pan <pan.pu@northeastern.edu>
+Date:   Wed Aug 16 15:11:01 2023 -0400
+
+    comments added in observer pattern
+
+commit 490a78da14556d45817cfeb718feda24e206a3aa
+Author: Purbasha Pan <pan.pu@northeastern.edu>
+Date:   Wed Aug 16 12:56:41 2023 -0400
+
+    relevant comments added in product files, observer pattern
+
+commit b9180127806a3cf0650ec24d365b3a99d2924f7b
+Author: Purbasha Pan <pan.pu@northeastern.edu>
+Date:   Wed Aug 16 12:14:49 2023 -0400
+
+    relevant comments added in facade and decorator pattern
+
+commit 73453b98f3d1a7dd27b3d22593ee8bb1019ccbc4
+Author: Yiming Zhang <yiming.zhang1024@gmail.com>
+Date:   Tue Aug 15 23:40:34 2023 -0700
+
+    Add comments for Command Pattern
+
+commit 0ca4e7977c02309a971e8de0aa87502ec950b66f
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 23:06:40 2023 -0700
+
+    code cleanup to remove IDE specific files
+
+commit ee607072ba2e875657f0e761460860115bf28ca6
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 23:06:12 2023 -0700
+
+    added IDE specific files to .gitignore
+
+commit b7407e937b6f05501b2170a50d42c8faef4321dd
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 23:03:46 2023 -0700
+
+    code cleanup to remove the bin folder
+
+commit 70caaa59776f8a90f95f9d275f3fe8b1893cf782
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:51:15 2023 -0700
+
+    adding more cases to demo()
+
+commit df829dfac00035b13364d8d13e86352168670036
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:47:53 2023 -0700
+
+    dry run to test code
+
+commit 2231102bb1582019a4ae9edf353ab42e97085e6b
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:47:03 2023 -0700
+
+    implemented missing method for ProductAPI
+
+commit 8d36c7398435ca2304bc769f7356f6f68816d078
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:43:47 2023 -0700
+
+    refactored DiscountStrategy implementation
+
+commit 26dd775d59481c2ff0264b494e8ded68476121db
+Merge: f33639a 6e652df
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:39:44 2023 -0700
+
+    Merge branch 'master' of https://github.com/prasaddpathak/csye7374-design-pattern-final-project
+
+commit f33639a6702871079890c69e6d67b0717f7011ff
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:39:36 2023 -0700
+
+    fixed references in the product decorator classes
+
+commit 6e652df12d84e7f24b56a6136bac48b1633c16f7
+Author: Yiming Zhang <yiming.zhang1024@gmail.com>
+Date:   Tue Aug 15 22:36:15 2023 -0700
+
+    Add comments for Factory
+
+commit 61be55bfe8d7de3429faab5e42a663303492350a
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:30:04 2023 -0700
+
+    fixed manufacturer adapter references
+
+commit a86457557b73e111fda1f6b7009b0b936b1c163c
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:22:09 2023 -0700
+
+    fixed reference error in discount class
+
+commit b5c5979d52d4329f402619fcc8f9276fdc86b05c
+Merge: 7c95a6d b475cc1
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:19:22 2023 -0700
+
+    Merge branch 'master' of https://github.com/prasaddpathak/csye7374-design-pattern-final-project
+
+commit 7c95a6da2fa6aeb0713f6a35aaf3cf750ac34bc4
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:19:05 2023 -0700
+
+    fixed references in Product implementation
+
+commit b475cc19498b68a6995d2967c0b671c690c7437c
+Merge: aa13b2b d4fc639
+Author: Yiming Zhang <yiming.zhang1024@gmail.com>
+Date:   Tue Aug 15 22:16:18 2023 -0700
+
+    Merge branch 'master' of https://github.com/prasaddpathak/csye7374-design-pattern-final-project
+
+commit aa13b2bd38ed01b11d0d728e54e836d3ab135711
+Author: Yiming Zhang <yiming.zhang1024@gmail.com>
+Date:   Tue Aug 15 22:15:50 2023 -0700
+
+    Add comments for Adapter
+
+commit d4fc639579f8d028f88780e3fda02da15a4f9e7f
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:15:09 2023 -0700
+
+    created Driver class to demo the Store functionality
+
+commit 6af69d60af99205f08a1d13e1404486c52862f28
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 22:14:18 2023 -0700
+
+    Implemented Store and fixed Employee Builder API
+
+commit dd8d7cd705af179597df7d5fc87b4d1014310629
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:48:32 2023 -0700
+
+    created StudentDiscount to implement DiscountStrategyAPI
+
+commit d908b1ad0daa1ffb94535c6a90948c4816da2ae1
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:47:17 2023 -0700
+
+    created FacultyDiscount to implement DiscountStrategyAPI
+
+commit 27e0e8e2aba9d33e35c4ef6386957d8e35763b9b
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:45:28 2023 -0700
+
+    created EmployeeDiscount to implement DiscountStrategyAPI
+
+commit 1af4c8f3eb5168bde0955008acd282b35c1c81c9
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:43:11 2023 -0700
+
+    created discountStrategy enum
+
+commit ac463c0d722d73e717a7dd796e81b60bb7f3c0b0
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:42:27 2023 -0700
+
+    created DiscountStrategyAPI interface
+
+commit 6c0f7b3144c14e90c77b160a45f4c0c3961f42b6
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:41:02 2023 -0700
+
+    fixed deliveryType facade design pattern
+
+commit 49dee2ea74cbf9a5cbda27cbe13376da1dfa657d
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:36:16 2023 -0700
+
+    created StorePickup to extend DeliveryType abstract class
+
+commit 8574f511c92db9c10b8ed8cffcd09a815e8ccaf7
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:35:11 2023 -0700
+
+    created HomeDelivery to extend DeliveryType
+
+commit 3e010173d3d23f65d864a865ec6b61b53282101a
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:34:13 2023 -0700
+
+    create DeliveryType abstract class
+
+commit 174efcf2136b3c81157007bc01bc667b1b797736
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:31:57 2023 -0700
+
+    created OrderDispatched to implement OrderStateAPI
+
+commit 51dc045c14b57750fedd50ed2cb24459c4cf5332
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:29:59 2023 -0700
+
+    created OrderDelivered to implement OrderStateAPI
+
+commit 35e0ff451827b11f32318e7f54fe0de176f24d05
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:27:41 2023 -0700
+
+    created OrderConfirmed to implement OrderStateAPI
+
+commit 94bc8f40b8b1be8a2dee39e2b13eb87092f392e9
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:26:08 2023 -0700
+
+    created AwaitingConfirmationState to implement OrderStateAPI
+
+commit a35bc59b23a0492b7c68d8780dd921871ad99c9a
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:23:29 2023 -0700
+
+    created QuantityObserver to implement OrderObserver
+
+commit 8236faae9be12b4d7526b9c5b298b08ddd41b9d3
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:21:57 2023 -0700
+
+    created PriceObserver to implement OrderObserver
+
+commit 472ce02389959213ab7ad4bd92687afed47a69b1
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:20:49 2023 -0700
+
+    created Order and OrderObserver interface
+
+commit 39d0a76e37c7fbb3be684071e7e63d2496c0c4bd
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:12:43 2023 -0700
+
+    created StockState implementing StoreStateAPI
+
+commit 238fc3f4ac3634efd1d97610d313fd5c1756878d
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:10:52 2023 -0700
+
+    Created OpenState to implement StoreStateAPI
+
+commit 8f21caa7134bc3f7cf873fc7ab0f3e1f723f7543
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:08:57 2023 -0700
+
+    Created CloseState to implement  StoreStateAPI
+
+commit 16faa2ed9fc98d55c244e70f85c69b485f257936
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:05:12 2023 -0700
+
+    created OrderStateAPI interface
+
+commit 951d65da87efda0de7815d021ffae6c1413079f9
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 21:04:39 2023 -0700
+
+    create StoreStateAPI interface
+
+commit 04506506e301d6a067549679be5e551265020cb6
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 19:32:45 2023 -0700
+
+    removed unused main driver class
+
+commit 8e46de74da9bd4b04d0f61d9bb65ae39de2a5ecc
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 19:03:18 2023 -0700
+
+    created Store implementation and fixed package reference errors
+
+commit 3cbbac6b9decc77ed09259d67162d6486ce8d2a7
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 18:46:12 2023 -0700
+
+    created FileUtility to handle File I/O
+
+commit 92d5202bf6b7bd27648e2ac2ceefa02ab061f814
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 18:42:19 2023 -0700
+
+    created ProductCategory Enum to handle types of Products
+
+commit 4a3416a929b51c8bf8197f7dd1a9071fd04da675
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 18:31:50 2023 -0700
+
+    created Product to implement ProductAPI interface
+
+commit 13c0baa1e2fc07c4b499fe025b290fa3fc2f7d14
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 18:15:18 2023 -0700
+
+    created Employee class to implement Person interface
+
+commit c8addd80c111667e4ac838bc247cb0578e3fcaf1
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 18:11:33 2023 -0700
+
+    created person interface
+
+commit 62b6856f20cf8c734d1ffe3f72b823f8daaf7c33
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 18:07:52 2023 -0700
+
+    created conversion utility functions
+
+commit ae45ec9eeae8607c3ebab18754c8fc26d4e4bf34
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 18:03:17 2023 -0700
+
+    created StoreAPI interface
+
+commit 7f2768083770facd2a19a2512efdf379bde5c7b2
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Tue Aug 15 18:01:29 2023 -0700
+
+    created ProductAPI interface
+
+commit d590e0700a150df6ad346174e97918d497999ca3
+Author: Purbasha Pan <pan.pu@northeastern.edu>
+Date:   Tue Aug 15 02:14:05 2023 -0400
+
+    facade pattern added by Purbasha
+
+commit 520adab207b21bfa88bdd3633580913f6094e2f6
+Author: Purbasha Pan <pan.pu@northeastern.edu>
+Date:   Tue Aug 15 01:59:14 2023 -0400
+
+    Decorator pattern added by Purbasha
+
+commit 0215d4efeb2d3af7f3c667549f19f286f9a98439
+Author: Purbasha Pan <pan.pu@northeastern.edu>
+Date:   Tue Aug 15 01:47:29 2023 -0400
+
+    Builder pattern added by Purbasha
+
+commit 969d98e683b1b9e728265d4e30875b32eba8084e
+Author: Yiming Zhang <yiming.zhang1024@gmail.com>
+Date:   Mon Aug 14 19:21:19 2023 -0700
+
+    Update - Adapter Pattern by Yiming
+
+commit 3a1e43e7e70fceb922c5ba24d9fdda55446ef17a
+Author: Yiming Zhang <yiming.zhang1024@gmail.com>
+Date:   Mon Aug 14 19:11:43 2023 -0700
+
+    Command Pattern by Yiming
+
+commit 14606b8700c2a6027a04486aa7619b1e627d791d
+Author: Yiming Zhang <yiming.zhang1024@gmail.com>
+Date:   Mon Aug 14 19:02:29 2023 -0700
+
+    Factory Pattern by Yiming
+
+commit 374ab5f7b37f8f128b80fe76027e33b58dc7efef
+Author: Yiming Zhang <yiming.zhang1024@gmail.com>
+Date:   Mon Aug 14 18:43:45 2023 -0700
+
+    Adapter Pattern by Yiming
+
+commit bd0bcd0fcaa75756d3f5a17eb7551b3ee57fe0a8
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:59:15 2023 -0700
+
+    initialized strategy pattern module
+
+commit 797c0ab1948b0419c54c9eb258f9c04febac4f1b
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:58:48 2023 -0700
+
+    initialized state pattern module
+
+commit 2bf8d2bc583c8a85a81daea31b94657c26728bd1
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:58:30 2023 -0700
+
+    initialized prototype pattern module
+
+commit e36faed73c0347f7a5f64ed1b7c338f60452b3ec
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:58:17 2023 -0700
+
+    initialized observer pattern module
+
+commit de46f738590ee8bdfbcfd2dab16defe44566e44f
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:58:02 2023 -0700
+
+    initialized factory pattern module
+
+commit 9a1151c97b628a875474791f4f36f13646bc2c3f
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:57:48 2023 -0700
+
+    initialized facade pattern module
+
+commit 3cd39987359990b7175e957cea300035bd5e4706
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:57:33 2023 -0700
+
+    initialized decorator pattern module
+
+commit cf7330372cab312077b2bc39dbaa18ef01f70078
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:57:16 2023 -0700
+
+    initialized command pattern module
+
+commit 9a7cf9dbf8077806175b55711baa105901d7bd8d
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:57:00 2023 -0700
+
+    initialized builder pattern module
+
+commit 42674c758964682e1d5e0bfd850c10487c8560cd
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:54:02 2023 -0700
+
+    initialized adapter pattern module
+
+commit 46bf297bb64d5d633b0cf286a7e0956ff5d24798
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:52:01 2023 -0700
+
+    added sample project module
+
+commit 78fdf928aca020ba8dd364c128d79ef32c8c2d7e
+Author: Prasad Pathak <prasaddpathak@gmail.com>
+Date:   Mon Aug 14 14:25:06 2023 -0700
+
+    initialized git repo

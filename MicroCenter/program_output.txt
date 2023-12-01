@@ -1,0 +1,54 @@
+***************************************************************************************
+Exhibiting the practical implementation of the Builder design pattern: Delegating the task of constructing instances of Product objects to the Product Builder. This Builder entity incorporates the build method, streamlining the creation of product representations
+Utilizing the factory and singleton design patterns for the purpose of getting a single instance of the Product Builder object
+Product [productId=1, productName=Iphone 14 Pro, productPrice=10.0, productCategory=Cellphone, productManufacturer=Apple]
+***************************************************************************************
+Illustration of prototype pattern to clone the Manufacturer object
+Product [productId=1, productName=Iphone 14 Pro, productPrice=10.0, productCategory=Cellphone, productManufacturer=Apple]
+***************************************************************************************
+Demonstrating the utilization of the Adapter pattern to adapt Manufacturer class with the Product Interface, followed by printing their respective instances
+[Manufacturer [ManufacturerName=Philips, age=52, noOfProductsManufacturerd=10]], [product=Product [productId=1, productName=Iphone 14 Pro, productPrice=10.0, productCategory=Cellphone, productManufacturer=Apple]]
+***************************************************************************************
+Illustrating the implementation of the Facade design pattern alongwith decorator pattern which is used to decorate products and which are then subsequently added to our list of order
+Illustrating the implementation of the Observer design pattern to update the cost of shipping and discount as the order count changes in the order list
+ProductDecorator [productDescription()=Iphone 14 Pro, of category CellphoneGift wrapped with a Thank You note, noOfProductsManufactured()=78, getDecoratedProduct()=Product [productId=1, productName=Iphone 14 Pro, productPrice=10.0, productCategory=Cellphone, productManufacturer=Apple]]
+Order [id=1, itemCost=20.0, count=1, discount=0.0, shippingCost=0.0]
+Order [id=1, itemCost=120.0, count=2, discount=0.0, shippingCost=25.0]
+Order [id=1, itemCost=270.0, count=3, discount=10.0, shippingCost=25.0]
+Order [id=1, itemCost=371.0, count=4, discount=10.0, shippingCost=25.0]
+Order [id=1, itemCost=571.0, count=5, discount=20.0, shippingCost=25.0]
+Order [id=1, itemCost=881.0, count=6, discount=20.0, shippingCost=26.5]
+***************************************************************************************
+Illustrating the execution of the Command design pattern to initiate requests for the entirety of product orders, followed by the systematic printing of these orders
+Iphone 14 Pro has been bought
+XPS 13 has been bought
+Whoop Slim has been bought
+Mac Book 15 has been bought
+Galaxy Tab Pro 11 has been bought
+QLED 55 has been bought
+Iphone 14 Pro has been rented
+XPS 13 has been rented
+Whoop Slim has been rented
+Mac Book 15 has been rented
+Galaxy Tab Pro 11 has been rented
+QLED 55 has been rented
+***************************************************************************************
+Using the Singleton and factory design patterns to enforce the creation of a single instance of the Employee Builder object
+
+Employee [[id= 7, firstName= Dan, lastName= Joe, age= 18], wage= 16.2]
+***************************************************************************************
+Demonstration of state pattern completed life cycle of order transitioning from ordered to delivered state
+ERROR!! Order already in awaiting!
+SUCCESS!! Order is now confirmed!
+Oops! Looks like the order isn't dispatched yet
+SUCCESS!! The Order has been successfully dispatched
+Oops!Looks like your order has already been confirmed
+Oops! Looks like the order has already been delivered
+***************************************************************************************
+Illustrating the state pattern's practical execution, encompassing the entire lifecycle of an order's progression from the "ordered" state to the final "delivered" state
+Product before discount:
+Product [productId=6, productName=QLED 55, productPrice=155.0, productCategory=Television, productManufacturer=Samsung]
+Product price after discount during sale: StudentDiscount108.5
+Product price after discount during sale: EmployeeDiscount124.0
+
+Process finished with exit code 0
